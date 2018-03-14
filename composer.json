@@ -1,0 +1,12 @@
+{
+    "name": "root/f-kbyte-rex",
+    "authors": [
+        {
+            "name": "Alexey Loginov",
+            "email": "a.loginov@outlook.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^6.5"
+    }
+}
